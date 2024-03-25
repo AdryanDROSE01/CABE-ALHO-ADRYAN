@@ -27,7 +27,7 @@ header {
 }
 
 img {
-    max-height: 100px; /* Ajuste conforme necessário */
+    max-height: 150px; /* Ajuste conforme necessário */
 }
 
 input[type="text"] {
